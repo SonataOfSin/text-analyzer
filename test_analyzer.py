@@ -14,4 +14,4 @@ def test_count_vowels():
 
 
 def test_reverse_text():
-    assert reverse_text("hello") == "hello"
+    assert reverse_text("hello") == "olleh"
